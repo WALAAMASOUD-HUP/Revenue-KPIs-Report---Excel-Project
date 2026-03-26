@@ -18,7 +18,8 @@ Slicers are integrated for easy filtering, enabling the user to explore the data
 ![Image](https://github.com/user-attachments/assets/3a7407f4-4d82-45a4-93c5-87590e41e6b8)
 ________________________________________
 📊 Dashboard Preview
-https://github.com/user-attachments/assets/be58ee91-507c-4a56-b449-b91159e5c2d7
+
+https://github.com/user-attachments/assets/43d302b3-04df-4824-8272-e40c76971777
 ______________________________________
 🛠️ Tools & Techniques Used
 •	Microsoft Excel
